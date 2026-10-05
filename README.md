@@ -631,4 +631,6 @@ Some potential improvements for future versions:
 Built as a full-stack e-commerce project using the MERN-style stack.
 
 ---
+# Live Demo 
+https://aura-store-fk7v5wscs-itssurbhi26s-projects.vercel.app/
 
