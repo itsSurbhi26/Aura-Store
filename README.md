@@ -632,16 +632,3 @@ Built as a full-stack e-commerce project using the MERN-style stack.
 
 ---
 
-# 📄 License
-
-This project is intended for educational and portfolio purposes.
-
----
-
-## ⭐ If you like the project
-
-Give the repository a ⭐ and feel free to explore, improve, and extend the application!
-
-```text
-Built with ❤️ using React + Node.js + Express + MongoDB
-```
